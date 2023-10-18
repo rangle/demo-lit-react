@@ -1,5 +1,5 @@
 {
-  "name": "@workspace/lit-lib",
+  "name": "@wc-ds/lit-lib",
   "description": "Webcomponent my-hello following open-wc recommendations",
   "license": "MIT",
   "author": "my-hello",

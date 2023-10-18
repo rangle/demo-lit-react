@@ -1,12 +1,11 @@
 {
-  "name": "@workspace",
+  "name": "@wc-ds/workspace",
   "private": true,
   "version": "0.0.0",
   "license": "UNLICENSED",
   "engineStrict": true,
-  "engines": {
-    "node": "18"
-  },
+  "engines": { "node": "18" },
+  "workspaces": { "packages": [ "packages/*" ] },
   "scripts": {},
   "dependencies": {},
   "resolutions": {}
