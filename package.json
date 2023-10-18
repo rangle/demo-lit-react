@@ -1,0 +1,13 @@
+{
+  "name": "@workspace",
+  "private": true,
+  "version": "0.0.0",
+  "license": "UNLICENSED",
+  "engineStrict": true,
+  "engines": {
+    "node": "18"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "resolutions": {}
+}
